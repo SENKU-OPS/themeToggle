@@ -226,7 +226,6 @@ body {
     text-align: center;
     width: 300px;
     color: var(--textColor);
-    background-color: red;
   }
   .our-product__heading {
     font-size: 3rem;
